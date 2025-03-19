@@ -39,8 +39,15 @@
     "EditorTabs": {
       "background": "#1f1f24",
       "borderColor": "#1a1a1f",
-      "underlinedTabBackground": "#232328",
-      "inactiveColoredFileBackground": "#1f1f24"
+      "underlinedTabBackground": "#212121",
+      "inactiveColoredFileBackground": "#1f1f24",
+      "hoverSelectedBackground": "#2d2d30",
+      "hoverInactiveBackground": "#2d2d30",
+      "underlineColor": "#675e83",
+      "hoverBackground": "#11212a",
+      "underlineHeight": "0x0",
+      "tabInsets": "0,0,0,0",
+      "verticalTabInsets": "0,0,0,0"
     },
     "ToolWindow": {
       "Header": {
