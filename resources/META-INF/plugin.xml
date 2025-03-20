@@ -9,9 +9,6 @@
     <name>DeepDarkNightTheme</name>
     <category>UI</category>
 
-    <!-- A displayed Vendor name or Organization ID displayed on the Plugins Page. -->
-    <vendor url="https://www.yourcompany.com">YourCompany</vendor>
-
     <idea-version since-build="242"/>
 
     <!-- Description of the plugin displayed on the Plugin Page and IDE Plugin Manager.
@@ -20,7 +17,9 @@
     Deep Dark Night is a dark theme for IntelliJ IDEA.
     It is designed to provide a more visually appealing and comfortable coding experience.
     The theme is designed to be easy on the eyes and to reduce eye strain, especially during long (night) coding sessions.
+    <img src="https://github.com>
   ]]></description>
+    <vendor>hsyntr33@gmail.com</vendor>
 
     <!-- Short summary of new features and bugfixes in the latest plugin version.
          Displayed on the Plugin Page and IDE Plugin Manager. Simple HTML elements can be included between <![CDATA[  ]]> tags. -->
@@ -34,6 +33,5 @@
 
     <extensions defaultExtensionNs="com.intellij">
         <themeProvider id="DeepDarkNightTheme" path="/theme/DeepDarkNightTheme.theme.json"/>
-
     </extensions>
 </idea-plugin>
