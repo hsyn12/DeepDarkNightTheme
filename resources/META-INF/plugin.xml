@@ -14,10 +14,13 @@
     <!-- Description of the plugin displayed on the Plugin Page and IDE Plugin Manager.
          Guidelines: https://plugins.jetbrains.com/docs/marketplace/plugin-overview-page.html#plugin-description -->
     <description><![CDATA[
-    Deep Dark Night is a dark theme for IntelliJ IDEA.
-    It is designed to provide a more visually appealing and comfortable coding experience.
-    The theme is designed to be easy on the eyes and to reduce eye strain, especially during long (night) coding sessions.
-    <img src="https://github.com>
+    <p>
+    Deep Dark Night is a dark theme for IntelliJ IDEA.<br>
+    It is designed to provide a more visually appealing and comfortable coding experience.<br>
+    The theme is designed to be easy on the eyes and to reduce eye strain, especially during long (night) coding sessions.<br>
+    </p>
+    
+    <img src="https://github.com/hsyn12/DeepDarkNightTheme/blob/master/view.png?raw=true" width="700" alt="View of the theme"/>
   ]]></description>
     <vendor>hsyntr33@gmail.com</vendor>
 
