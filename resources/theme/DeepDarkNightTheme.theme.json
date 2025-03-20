@@ -30,7 +30,7 @@
       "endBackground": "#425f44"
     },
     "Panel.background": "#1a1a1f",
-    "Window.border": "2,2,2,2,#313131",
+    "Window.border": "2,2,2,2,#35353f",
     "Editor": {
       "background": "#1a1a1f",
       "foreground": "#d4d4d4",
@@ -38,16 +38,13 @@
     },
     "EditorTabs": {
       "background": "#1f1f24",
-      "borderColor": "#1a1a1f",
-      "underlinedTabBackground": "#212121",
+      "borderColor": "#35353f",
+      "underlinedTabBackground": "#415841",
       "inactiveColoredFileBackground": "#1f1f24",
-      "hoverSelectedBackground": "#2d2d30",
-      "hoverInactiveBackground": "#2d2d30",
+      "hoverSelectedBackground": "#343438",
+      "hoverInactiveBackground": "#434347",
       "underlineColor": "#675e83",
-      "hoverBackground": "#11212a",
-      "underlineHeight": "0x0",
-      "tabInsets": "0,0,0,0",
-      "verticalTabInsets": "0,0,0,0"
+      "hoverBackground": "#333535"
     },
     "ToolWindow": {
       "Header": {
