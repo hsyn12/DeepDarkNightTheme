@@ -7,13 +7,15 @@
         <property name="originalScheme">Deep Dark Night</property>
     </metaInfo>
     <colors>
+        <option name="CONSOLE_BACKGROUND_KEY" value="1a1a1f"/>
+        <option name="CONSOLE_FOREGROUND" value="63b8dc"/>
         <option name="CARET_ROW_COLOR" value="#232328"/>
         <option name="GUTTER_BACKGROUND" value="#1a1a1f"/>
         <option name="LINE_NUMBERS_COLOR" value="#606060"/>
         <option name="SELECTION_BACKGROUND" value="#3a3d41"/>
         <option name="SELECTION_FOREGROUND" value="#ffffff"/>
         <option name="TEARLINE_COLOR" value="#2d2d30"/>
-        <option name="INDENT_GUIDE" value=""/>
+        <option name="INDENT_GUIDE" value="1a1a1f"/>
         <option name="TOOLTIP" value="181822"/>
         <option name="FOLDED_TEXT_BORDER_COLOR" value="878700"/>
         <option name="DOCUMENTATION_COLOR" value="222323"/>

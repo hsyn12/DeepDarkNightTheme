@@ -15,7 +15,7 @@
       "separatorColor": "#2d2d30"
     },
     "Borders": {
-      "color": "#1a1a1f",
+      "color": "#35353f",
       "ContrastBorderColor": "#2d2d30"
     },
     "Button": {
@@ -30,7 +30,7 @@
       "endBackground": "#425f44"
     },
     "Panel.background": "#1a1a1f",
-    "Window.border": "2,2,2,2,#1a1a1f",
+    "Window.border": "2,2,2,2,#313131",
     "Editor": {
       "background": "#1a1a1f",
       "foreground": "#d4d4d4",
