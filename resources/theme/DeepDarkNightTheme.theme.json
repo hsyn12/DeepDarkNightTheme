@@ -5,11 +5,11 @@
   "editorScheme": "theme/deepDarkNight.xml",
   "ui": {
     "*": {
-      "background": "#1a1a1f",
+      "background": "#17171d",
       "foreground": "#d4d4d4",
       "selectionBackground": "#3a3d41",
       "selectionForeground": "#ffffff",
-      "inactiveBackground": "#1f1f24",
+      "inactiveBackground": "#17171d",
       "inactiveForeground": "#a7a7a7",
       "borderColor": "#1a1a1f",
       "separatorColor": "#2d2d30"
@@ -30,21 +30,22 @@
       "endBackground": "#425f44"
     },
     "Panel.background": "#1a1a1f",
-    "Window.border": "2,2,2,2,#35353f",
+    "Window.border": "2,2,2,2,#425f44",
     "Editor": {
-      "background": "#1a1a1f",
+      "background": "#17171d",
       "foreground": "#d4d4d4",
       "shortcutForeground": "#8c8c8c"
     },
     "EditorTabs": {
-      "background": "#1f1f24",
-      "borderColor": "#35353f",
-      "underlinedTabBackground": "#415841",
-      "inactiveColoredFileBackground": "#1f1f24",
+      "background": "#17171d",
+      "borderColor": "#28282d",
+      "inactiveColoredFileBackground": "#1a1a1f",
       "hoverSelectedBackground": "#343438",
       "hoverInactiveBackground": "#434347",
       "underlineColor": "#675e83",
-      "hoverBackground": "#333535"
+      "hoverBackground": "#333535",
+      "unselectedAlpha": "0.5",
+      "underlineHeight": 2
     },
     "ToolWindow": {
       "Header": {
@@ -52,7 +53,7 @@
         "inactiveBackground": "#1a1a1f"
       },
       "HeaderTab": {
-        "selectedBackground": "#2d2d30",
+        "underlinedTabBackground": "#242424",
         "selectedInactiveBackground": "#252529",
         "hoverBackground": "#323237",
         "hoverInactiveBackground": "#2a2a2f"
@@ -60,7 +61,7 @@
     },
     "Popup": {
       "Header": {
-        "activeBackground": "#2d2d30",
+        "activeBackground": "#222227",
         "inactiveBackground": "#252529"
       }
     },
@@ -69,7 +70,7 @@
       "selectionBackground": "#3a3d41"
     },
     "Notification": {
-      "background": "#1f1f24",
+      "background": "#1d1d23",
       "errorBackground": "#452a2a",
       "warningBackground": "#453c2a",
       "infoBackground": "#2a3645"

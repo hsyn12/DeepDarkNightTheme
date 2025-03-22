@@ -17,10 +17,11 @@
     <p>
     Deep Dark Night is a dark theme for IntelliJ IDEA.<br>
     It is designed to provide a more visually appealing and comfortable coding experience.<br>
-    The theme is designed to be easy on the eyes and to reduce eye strain, especially during long (night) coding sessions.<br>
+    The theme is designed to be easy on the eyes and to reduce eye strain,<br>
+    especially during long (night) coding sessions.<br>
     </p>
     
-    <img src="https://github.com/hsyn12/DeepDarkNightTheme/blob/master/view.png?raw=true" width="700" alt="View of the theme"/>
+    <img src="https://github.com/hsyn12/DeepDarkNightTheme/blob/master/view.png?raw=true" alt="View of the theme"/>
   ]]></description>
     <vendor>hsyntr33@gmail.com</vendor>
 
