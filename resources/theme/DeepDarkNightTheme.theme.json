@@ -5,18 +5,18 @@
   "editorScheme": "theme/deepDarkNight.xml",
   "ui": {
     "*": {
-      "background": "#17171d",
+      "background": "#131319",
       "foreground": "#d4d4d4",
       "selectionBackground": "#3a3d41",
       "selectionForeground": "#ffffff",
       "inactiveBackground": "#17171d",
       "inactiveForeground": "#a7a7a7",
-      "borderColor": "#1a1a1f",
+      "borderColor": "#131319",
       "separatorColor": "#2d2d30"
     },
     "Borders": {
-      "color": "#35353f",
-      "ContrastBorderColor": "#2d2d30"
+      "color": "#131319",
+      "ContrastBorderColor": "#17171d"
     },
     "Button": {
       "startBackground": "#2d2d30",
@@ -29,16 +29,16 @@
       "startBackground": "#425f44",
       "endBackground": "#425f44"
     },
-    "Panel.background": "#1a1a1f",
-    "Window.border": "2,2,2,2,#425f44",
+    "Panel.background": "#131319",
+    "Window.border": "2,2,2,2,#17171d",
     "Editor": {
-      "background": "#17171d",
+      "background": "#131319",
       "foreground": "#d4d4d4",
       "shortcutForeground": "#8c8c8c"
     },
     "EditorTabs": {
-      "background": "#17171d",
-      "borderColor": "#28282d",
+      "background": "#131319",
+      "borderColor": "#131319",
       "inactiveColoredFileBackground": "#1a1a1f",
       "hoverSelectedBackground": "#343438",
       "hoverInactiveBackground": "#434347",
@@ -49,19 +49,19 @@
     },
     "ToolWindow": {
       "Header": {
-        "background": "#1f1f24",
+        "background": "#242331",
         "inactiveBackground": "#1a1a1f"
       },
       "HeaderTab": {
-        "underlinedTabBackground": "#242424",
+        "underlinedTabBackground": "#242331",
         "selectedInactiveBackground": "#252529",
-        "hoverBackground": "#323237",
+        "hoverBackground": "#38383f",
         "hoverInactiveBackground": "#2a2a2f"
       }
     },
     "Popup": {
       "Header": {
-        "activeBackground": "#222227",
+        "activeBackground": "#36354a",
         "inactiveBackground": "#252529"
       }
     },
@@ -70,7 +70,7 @@
       "selectionBackground": "#3a3d41"
     },
     "Notification": {
-      "background": "#1d1d23",
+      "background": "#313043",
       "errorBackground": "#452a2a",
       "warningBackground": "#453c2a",
       "infoBackground": "#2a3645"
